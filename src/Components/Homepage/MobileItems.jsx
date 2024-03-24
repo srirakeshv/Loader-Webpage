@@ -38,7 +38,7 @@ const MobileItems = () => {
         },
         {
           name: "company 2",
-          path: "hel",
+          path: "d",
         },
       ],
     },
